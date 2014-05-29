@@ -27,4 +27,9 @@ div.content_wrapper{
 aside{
 	width: 40%;
 	float: left;
+	background: gray;
+}
+aside ul li{
+	list-style-position: inside;
+	list-style-type: circle;
 }
