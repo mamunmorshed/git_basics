@@ -7,4 +7,24 @@
 
 *{
 	font-family: Dosis, Sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	padding: 20px 0px;
+	background: orange;
+}
+div.main_content_wrapper{
+	background: silver;
+}
+
+div.content_wrapper{
+	width: 60%;
+	float: left;
+	background: #ddd;
+}
+aside{
+	width: 40%;
+	float: left;
 }
