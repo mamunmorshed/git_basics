@@ -23,6 +23,11 @@ div.content_wrapper{
 	width: 60%;
 	float: left;
 	background: #ddd;
+	text-align: justify;
+}
+div.content_wrapper h2{
+	color: green;
+	line-height: 150%;
 }
 aside{
 	width: 40%;
