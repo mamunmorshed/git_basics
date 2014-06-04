@@ -1,1 +1,1 @@
-This is an empty environment setup for web development and this project is for learning git & github
+This is an empty environment setup for web development and this project is for learning git & github and this project is for learning git & github
